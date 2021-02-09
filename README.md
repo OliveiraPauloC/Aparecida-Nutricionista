@@ -1,4 +1,4 @@
-# Aparecida Nutricao
+# Aparecida Nutrição
 
 ### Projeto feito em Javascript simulando um banco de dados que atualiza em tempo real a porcentagem de gordura, adiciona, filtra e deleta os pacientes.
 <br>
